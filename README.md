@@ -18,7 +18,4 @@ Open the generated URL, normally `http://localhost:5500/frontend/index.html` or 
 
 The frontend calls `http://localhost:8080/api` and uses hash routes (`#/login`, `#/register`, `#/`, `#/expenses`, `#/income`) so it works with a simple static server.
 
-## Important
-- No `.jsx` files are included.
-- No React/npm build is required.
-- Do not open the HTML with `file:///`; use Live Server or another HTTP static server.
+
