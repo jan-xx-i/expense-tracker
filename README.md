@@ -1,6 +1,6 @@
 # Expense Tracker - Vanilla HTML/CSS/JavaScript + Spring Boot + MySQL
 
-This version removes React, JSX, Vite, React Router, Axios and Recharts from the frontend. The existing UI structure/styles and backend API are preserved.
+
 
 ## Run
 
